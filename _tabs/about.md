@@ -32,4 +32,4 @@ order: 4
 - 정보처리기사
 
 ***
-![hoos007's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoos007\&hide=issues\&show_icons=true){: .left } ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoos007\&layout=compact){: .left }
+![hoos007's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoos007&hide=issues\&show_icons=true){: .left } ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoos007&layout=compact){: .left }
