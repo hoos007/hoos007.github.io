@@ -32,3 +32,4 @@ order: 4
 - 정보처리기사
 
 ***
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&hide=issues\&show_icons=true){: .left } ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact){: .left }
