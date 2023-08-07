@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=hoos007&fontSize=40&fontColor=D8D8D8&fontAlign=15&fontAlignY=55&animation=fadeIn)
-<br>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhoos007.github.io&amp;count_bg=%2379C83D&amp;title_bg=23555555&amp;icon=&amp;icon_color=%23E7E7E7&amp;title=hits&amp;edge_flat=false)](https://hoos007.github.io) [![Naver mail](https://img.shields.io/badge/Mail-03C75A?style=flat&logo=naver&logoColor=white)](mailto:hoos007@naver.com) [![Git Hub](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)](https://github.com/hoos007) [![blog](https://img.shields.io/badge/Tech_blog-00B8FC?style=flat&logo=&logoColor=white)](https://hoos007.github.io)
+<br>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhoos007.github.io&amp;count_bg=%2379C83D&amp;title_bg=%23555555&amp;icon=&amp;icon_color=%23E7E7E7&amp;title=hits&amp;edge_flat=false)](https://hoos007.github.io) [![Naver mail](https://img.shields.io/badge/Mail-03C75A?style=flat&logo=naver&logoColor=white)](mailto:hoos007@naver.com) [![Git Hub](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)](https://github.com/hoos007) [![blog](https://img.shields.io/badge/Tech_blog-00B8FC?style=flat&logo=&logoColor=white)](https://hoos007.github.io)
 
 ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoos007){: .right }
 
