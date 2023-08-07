@@ -13,13 +13,14 @@ order: 4
 
 ## 기술 스택
 사용 언어
-<br>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoos007&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/hoos007) [![Naver mail](https://img.shields.io/badge/Mail-03C75A?style=flat&logo=naver&logoColor=white)](mailto:hoos007@naver.com) [![Git Hub](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)](https://github.com/hoos007) [![blog](https://img.shields.io/badge/Tech_blog-00B8FC?style=flat&logo=&logoColor=white)](https://hoos007.github.io)
+
+[![JAVA](https://img.shields.io/badge/java-FFFFFF?style=flat&logo=openjdk&logoColor=black)]() [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)]() [![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)]() [![C Sharp](https://img.shields.io/badge/C_Sharp-239120?style=flat&logo=csharp&logoColor=white)]()
 
 사용 기술
 
-![Spring](https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/spring_boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black) ![Servlet/JSP](https://img.shields.io/badge/Servlet/JSP-F37626?style=flat&logo=&logoColor=white)
-<br>![amazon aws](https://img.shields.io/badge/aws-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-<br>![DracleDB](https://img.shields.io/badge/oracle_DB-F80000?style=flat&logo=oracle&logoColor=white) ![MariaDB](https://img.shields.io/badge/maria_db-003545?style=flat&logo=mariadb&logoColor=white)
+[![Spring](https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white)]() [![Spring Boot](https://img.shields.io/badge/spring_boot-6DB33F?style=flat&logo=springboot&logoColor=white)]() [![Docker](https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white)]() [![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black)]() [![Servlet/JSP](https://img.shields.io/badge/Servlet/JSP-F37626?style=flat&logo=&logoColor=white)]()
+<br>[![amazon aws](https://img.shields.io/badge/aws-232F3E?style=flat&logo=amazonaws&logoColor=white)]() [![Azure](https://img.shields.io/badge/azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)]()
+<br>[![DracleDB](https://img.shields.io/badge/oracle_DB-F80000?style=flat&logo=oracle&logoColor=white)]() [![MariaDB](https://img.shields.io/badge/maria_db-003545?style=flat&logo=mariadb&logoColor=white)]()
 
 ## 프로젝트
 - 2022스마일게이트윈터데브캠프 Seagull팀 'equba' (2022.11.29 ~ 2023.02.24) [[GitHub](https://github.com/sgdevcamp2022/seagull)]
