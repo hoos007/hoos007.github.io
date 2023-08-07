@@ -32,5 +32,5 @@ order: 4
 - 정보처리기사
 
 ***
-![hoos007's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoos007&hide=issues\&show_icons=true){: height="150" .normal }
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoos007&layout=compact){: height="150" .normal }
+![hoos007's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoos007&amp;hide=issues&amp;show_icons=true){: height="150" .normal }
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoos007&amp;layout=compact){: height="150" .normal }
