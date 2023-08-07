@@ -12,12 +12,10 @@ order: 4
 자바 백엔드 개발자를 목표로 공부하고 있습니다.
 
 ## 기술 스택
-사용 언어
-
+### 사용 언어
 [![JAVA](https://img.shields.io/badge/java-FFFFFF?style=flat&logo=openjdk&logoColor=black)]() [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)]() [![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)]() [![C Sharp](https://img.shields.io/badge/C_Sharp-239120?style=flat&logo=csharp&logoColor=white)]()
 
-사용 기술
-
+### 사용 기술
 [![Spring](https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white)]() [![Spring Boot](https://img.shields.io/badge/spring_boot-6DB33F?style=flat&logo=springboot&logoColor=white)]() [![Docker](https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white)]() [![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black)]() [![Servlet/JSP](https://img.shields.io/badge/Servlet/JSP-F37626?style=flat&logo=&logoColor=white)]()
 <br>[![amazon aws](https://img.shields.io/badge/aws-232F3E?style=flat&logo=amazonaws&logoColor=white)]() [![Azure](https://img.shields.io/badge/azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)]()
 <br>[![DracleDB](https://img.shields.io/badge/oracle_DB-F80000?style=flat&logo=oracle&logoColor=white)]() [![MariaDB](https://img.shields.io/badge/maria_db-003545?style=flat&logo=mariadb&logoColor=white)]()
