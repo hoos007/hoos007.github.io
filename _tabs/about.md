@@ -28,8 +28,8 @@ order: 4
 ![DracleDB](https://img.shields.io/badge/oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MariaDB](https://img.shields.io/badge/maria_db-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ## 프로젝트
-- 2022스마일게이트윈터데브캠프 Seagull팀 'equba' (2022.11.29 ~ 2023.02.24) [[GitHub](https://github.com/sgdevcamp2022/seagull)]
-- 2022신라대학교캡스톤디자인경진대회 모비시스팀 '종이소리' (2022.05.01 ~ 2022.12.15) [[GitHub](https://github.com/hoos007/2022CapstoneDesign-PaperSound)]
+- 2022스마일게이트윈터데브캠프 Seagull팀 'equba' (2022.11.29 ~ 2023.02.24) [GitHub](https://github.com/sgdevcamp2022/seagull)
+- 2022신라대학교캡스톤디자인경진대회 모비시스팀 '종이소리' (2022.05.01 ~ 2022.12.15) [GitHub](https://github.com/hoos007/2022CapstoneDesign-PaperSound)
 
 ## 이력
 - 신라대학교 컴퓨터소프트웨어공학부 클라우드/빅데이터전공 (2018.03 ~ 2024.02)
