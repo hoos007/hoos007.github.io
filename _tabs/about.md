@@ -31,9 +31,4 @@ order: 4
 - 정보처리기사
 
 ***
-<a href="https://github.com/hoos007">
   <img height=150 src="https://github-readme-stats.vercel.app/api?username=hoos007&show_icons=true&hide=issues" />
-</a>
-<a href="https://github.com/hoos007">
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=hoos007&layout=compact&langs_count=6&card_width=400" />
-</a>
