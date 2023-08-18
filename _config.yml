@@ -18,7 +18,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: hoos007의 개발 블로그 # the main title
+title: hoos007의 자급자족 개발 블로그 # the main title
 
 tagline: 성장을 즐기는 개발자 이효승 입니다. # it will display as the sub-title
 
