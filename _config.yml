@@ -18,9 +18,9 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: hoos007's blog # the main title
+title: hoos007의 개발 블로그 # the main title
 
-tagline: JAVA Backend Developer # it will display as the sub-title
+tagline: 성장을 즐기는 개발자 이효승 입니다. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
