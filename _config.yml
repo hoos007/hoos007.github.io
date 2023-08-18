@@ -23,7 +23,7 @@ title: hoos007의 자급자족 개발 블로그 # the main title
 tagline: 성장을 즐기는 개발자 이효승 입니다. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  hoos007의 개발 블로그
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://hoos007.github.io"
