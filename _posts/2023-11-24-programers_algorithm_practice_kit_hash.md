@@ -6,7 +6,7 @@ tags: [coding_test, java, programers]     # TAG names should always be lowercase
 author: hoos007
 ---
 
-**프로그래머스의 코딩테스트 고득점 Kit으로 공부하며 작성한 내용 입니다.**
+프로그래머스의 코딩테스트 고득점 Kit으로 공부하며 작성한 내용 입니다.
 
 
 "임의의 길이의 데이터를 고정된 길이의 데이터로 매핑하는 것이다."
