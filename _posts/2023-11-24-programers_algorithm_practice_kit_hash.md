@@ -94,7 +94,8 @@ for(Integer i : map.keySet()){ //저장된 key값 확인
 ```
 
 여기서 참고함.
-https://coding-factory.tistory.com/556
+
+[[Java] 자바 HashMap 사용법 & 예제 총정리](https://coding-factory.tistory.com/556)
 
 
 
