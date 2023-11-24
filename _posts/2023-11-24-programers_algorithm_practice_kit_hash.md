@@ -1,18 +1,19 @@
 ---
-title: \[프로그래머스] 코딩테스트 고득점 Kit - 해시
+title: (프로그래머스) 코딩테스트 고득점 Kit - 해시
 date: 2023-11-24 19:40:00 +0900
 categories: [coding_test, Programers, 코딩테스트_고득점_Kit, 해시, 개념]
 tags: [coding_test, java, programers]     # TAG names should always be lowercase
 author: hoos007
 ---
 
-프로그래머스의 코딩테스트 고득점 Kit으로 공부하며 작성한 내용 입니다.
+**프로그래머스의 코딩테스트 고득점 Kit으로 공부하며 작성한 내용 입니다.**
 
 
 "임의의 길이의 데이터를 고정된 길이의 데이터로 매핑하는 것이다."
 자료구조의 해시맵에서 인덱스값으로 사용된다.
 
 HashMap, HashTable, HashSet, LinkedHashMap, TreeMap - 추가
+
 대충 보니까 HashMap이 메인이고 다른것들은 특징적으로 필요할때만 사용하는듯.
 
 ## 사용하는 이유는
