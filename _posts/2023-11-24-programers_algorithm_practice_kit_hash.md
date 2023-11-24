@@ -1,5 +1,5 @@
 ---
-title: "[프로그래머스] 코딩테스트 고득점 Kit - 해시"
+title: (프로그래머스) 코딩테스트 고득점 Kit - 해시
 date: 2023-11-24 19:40:00 +0900
 categories: [coding_test, Programers, 코딩테스트_고득점_Kit, 해시, 개념]
 tags: [coding_test, java, programers]     # TAG names should always be lowercase
